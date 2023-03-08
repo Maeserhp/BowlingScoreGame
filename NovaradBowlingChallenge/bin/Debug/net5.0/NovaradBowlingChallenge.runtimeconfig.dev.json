@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Maese\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Maese\\.nuget\\packages"
+    ]
+  }
+}

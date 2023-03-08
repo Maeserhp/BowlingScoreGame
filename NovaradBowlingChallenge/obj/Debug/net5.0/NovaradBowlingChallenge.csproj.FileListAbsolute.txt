@@ -1,0 +1,16 @@
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\bin\Debug\net5.0\NovaradBowlingChallenge.exe
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\bin\Debug\net5.0\NovaradBowlingChallenge.deps.json
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\bin\Debug\net5.0\NovaradBowlingChallenge.runtimeconfig.json
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\bin\Debug\net5.0\NovaradBowlingChallenge.runtimeconfig.dev.json
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\bin\Debug\net5.0\NovaradBowlingChallenge.dll
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\bin\Debug\net5.0\ref\NovaradBowlingChallenge.dll
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\bin\Debug\net5.0\NovaradBowlingChallenge.pdb
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\obj\Debug\net5.0\NovaradBowlingChallenge.csproj.AssemblyReference.cache
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\obj\Debug\net5.0\NovaradBowlingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\obj\Debug\net5.0\NovaradBowlingChallenge.AssemblyInfoInputs.cache
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\obj\Debug\net5.0\NovaradBowlingChallenge.AssemblyInfo.cs
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\obj\Debug\net5.0\NovaradBowlingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\obj\Debug\net5.0\NovaradBowlingChallenge.dll
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\obj\Debug\net5.0\ref\NovaradBowlingChallenge.dll
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\obj\Debug\net5.0\NovaradBowlingChallenge.pdb
+C:\Users\Maese\source\repos\NovaradBowlingChallenge\NovaradBowlingChallenge\obj\Debug\net5.0\NovaradBowlingChallenge.genruntimeconfig.cache
